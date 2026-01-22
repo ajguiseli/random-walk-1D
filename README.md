@@ -6,7 +6,6 @@ Este repositório contém um Jupyter Notebook que simula e plota uma caminhada a
 
 - Implementação da random walk
 - Gráfico da trajetória da partícula
-- Explicações linha a linha
 
 ##  Resultados
 Resultados gráficos de uma trajetória de caminhada aleatória em uma dimensão.
